@@ -1,4 +1,4 @@
-# Fokker-Planck Emergant Intelligence Dynamics: Emergent intelligence as a critical system
+# Fokker-Planck Dynamics: Emergent intelligence as a critical system
 
 **Understanding emergent intelligence through probability flow dynamics on learned manifolds**.
 
