@@ -1,4 +1,6 @@
-# Fokker-Planck Dynamics: **Understanding emergent intelligence through probability flow dynamics on learned manifolds**.
+# Fokker-Planck Dynamics: 
+
+**Understanding emergent intelligence through probability flow dynamics on learned manifolds**.
 
 ---
 
