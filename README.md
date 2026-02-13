@@ -1,4 +1,4 @@
-# Fokker-Planck Phase-Transition Dynamics in Machine Learning
+# Fokker-Planck Phase-Transition Dynamics:
 
 **Understanding emergent intelligence through probability flow dynamics on learned manifolds**
 
